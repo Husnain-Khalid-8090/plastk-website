@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "RHJ7QX2TY5.org.reactjs.native.PlastkApp",
+        "paths": [
+          "/set-password",
+          "/set-password/*"
+        ]
+      }
+    ]
+  }
+}
